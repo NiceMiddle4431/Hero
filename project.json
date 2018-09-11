@@ -1,0 +1,29 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules" : ["cocos2d"],
+  "jsList": [
+    "src/resource.js",
+    "src/Scene/MainScene.js",
+    "src/Element/BGLayer.js",
+    "src/Element/UILayer.js",
+    "src/Element/Sound.js",
+    "src/Element/Hero.js",
+    "src/Element/Item.js",
+    "src/Logic/LogicSound.js",
+    "src/Logic/Game.js",
+    "src/Logic/FoodManager.js",
+
+    
+    "src/test.js"
+
+
+
+  ]
+}
